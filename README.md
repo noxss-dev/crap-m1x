@@ -1,4 +1,8 @@
 # 🫤 Crap (first batch)
+Crap is a Play Store... without Google.
+
+It doesn't use APKs, but it's better to watch https://keepandroidopen.org/
+
 ## 🏴 Development Status
 Crap is being actively developed, but it's currently "raw".
 
